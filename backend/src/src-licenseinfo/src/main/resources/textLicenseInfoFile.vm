@@ -6,9 +6,6 @@
 $projectTitle
 
 
-Open Source Software
-====================
-$licenseInfoHeader
 
 #if($externalIds.keySet().size() > 0)
 External Identifiers for this Product:
